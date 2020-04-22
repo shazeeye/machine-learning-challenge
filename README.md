@@ -31,7 +31,12 @@ In this homework assignment, you will need to:
 
 ### Reporting
 
-* Create a README that reports a comparison of each model's performance as well as a summary about your findings and any assumptions you can make based on your model (is your model good enough to predict new exoplanets? Why or why not? What would make your model be better at predicting new exoplanets?).
+* Model is good enough to predict new exoplanets when you see the training and test scores.
+
+	                                  Before Training 	         After training using GridSearch
+Training Score	                 0.9933244325767691	         1.0
+Testing Score                    0.8787185354691075          0.8993135011441648
+
 
 
 
